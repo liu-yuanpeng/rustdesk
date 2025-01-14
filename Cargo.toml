@@ -1,11 +1,11 @@
 [package]
-name = "infodesk"
+name = "rustdesk"
 version = "1.3.6"
 authors = ["rustdesk <info@rustdesk.com>"]
 edition = "2021"
 build= "build.rs"
 description = "infodesk Remote"
-default-run = "infodesk"
+default-run = "rustdesk"
 rust-version = "1.75"
 
 [lib]
